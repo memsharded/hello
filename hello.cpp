@@ -2,5 +2,5 @@
 #include "hello.h"
 
 void hello(){
-	std::cout << "Hello World This is master branch!\n";
+	std::cout << "Hello World This is release_1 branch!\n";
 }
